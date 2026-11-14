@@ -1,6 +1,4 @@
-# ULA_4bits_SD-Peter-Cross
-
-# ULA de 4 bits em VHDL
+# ULA de 4bits SD-Peter-Cross
 
 **Trabalho 1 – Sistemas Digitais (EEL 480) · Prof. Pedro Cruz**
 
